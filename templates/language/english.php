@@ -8,4 +8,5 @@
 
 return array(
     'error_you_have_no_right' => 'You have no right post with tag `%%tag_name%%`.',
+    'error_is_tabu_tag' => 'It is forbidden to publish with tag `%%tag_name%%`.',
 );

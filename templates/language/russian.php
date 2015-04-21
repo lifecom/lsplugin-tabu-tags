@@ -8,4 +8,5 @@
 
 return array(
     'error_you_have_no_right' => 'Вы не имеете право публиковать с тегом `%%tag_name%%`.',
+    'error_is_tabu_tag' => 'Запрещено публиковать с тегом `%%tag_name%%`.',
 );

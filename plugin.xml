@@ -9,6 +9,7 @@
         <lang name="ru">Гавка С.</lang>
     </author>
     <homepage>https://github.com/sgavka</homepage>
+    <settings>{admin}settings/plugin/tabutags/</settings>
     <version>0.9</version>
     <requires>
         <livestreet>2.0.*</livestreet>
